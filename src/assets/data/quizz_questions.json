@@ -1,0 +1,91 @@
+{
+  "title": "Quiz sobre Linguagens de Programação",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual linguagem de programação é conhecida por ser 'simples, rápida e portátil'?",
+      "options": [
+        {"id": 1, "name": "Python", "alias": "A"},
+        {"id": 2, "name": "C++", "alias": "B"},
+        {"id": 3, "name": "Java", "alias": "C"},
+        {"id": 4, "name": "JavaScript", "alias": "D"},
+        {"id": 5, "name": "Nenhuma das anteriores", "alias": ""}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Em qual linguagem de marcação o código é frequentemente escrito entre tags < e >?",
+      "options": [
+        {"id": 1, "name": "Python", "alias": "A"},
+        {"id": 2, "name": "C++", "alias": "B"},
+        {"id": 3, "name": "Java", "alias": "C"},
+        {"id": 4, "name": "HTML", "alias": "D"},
+        {"id": 5, "name": "Nenhuma das anteriores", "alias": ""}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual destas linguagens é mais usada para desenvolvimento de aplicações web no lado do cliente?",
+      "options": [
+        {"id": 1, "name": "Python", "alias": "A"},
+        {"id": 2, "name": "C++", "alias": "B"},
+        {"id": 3, "name": "Java", "alias": "C"},
+        {"id": 4, "name": "JavaScript", "alias": "D"},
+        {"id": 5, "name": "Nenhuma das anteriores", "alias": ""}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual linguagem é conhecida por ser amplamente utilizada em ciência de dados e aprendizado de máquina?",
+      "options": [
+        {"id": 1, "name": "Python", "alias": "A"},
+        {"id": 2, "name": "C++", "alias": "*"},
+        {"id": 3, "name": "Java", "alias": "C"},
+        {"id": 4, "name": "C#", "alias": "#"},
+        {"id": 5, "name": "R", "alias": "E"},
+        {"id": 6, "name": "Nenhuma das anteriores", "alias": ""}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Em qual linguagem de programação é comum o uso da sintaxe 'console.log' para exibir mensagens no console?",
+      "options": [
+        {"id": 1, "name": "Python", "alias": "A"},
+        {"id": 2, "name": "C++", "alias": "B"},
+        {"id": 3, "name": "Java", "alias": "C"},
+        {"id": 4, "name": "JavaScript", "alias": "D"},
+        {"id": 5, "name": "Nenhuma das anteriores", "alias": ""}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Qual a linguagem você escolheria para desenvolver um jogo?",
+      "options": [
+        {"id": 1, "name": "Python", "alias": "A"},
+        {"id": 2, "name": "C++", "alias": "B"},
+        {"id": 3, "name": "Java", "alias": "C"},
+        {"id": 4, "name": "JavaScript", "alias": "D"},
+        {"id": 5, "name": "Nenhuma das anteriores", "alias": ""}
+      ]
+     },
+     {
+      "id": 5,
+      "question": "Se tratando de Programação Orientada a Objetos, qual linguagem você prefere?",
+      "options": [
+        {"id": 1, "name": "Python", "alias": "A"},
+        {"id": 2, "name": "C++", "alias": "B"},
+        {"id": 3, "name": "Java", "alias": "C"},
+        {"id": 4, "name": "TypeScript", "alias": "D"},
+        {"id": 5, "name": "Nenhuma das anteriores", "alias": ""}
+      ]
+}
+  ],
+  "results": {
+    "A": "Você é um fã de Python! Parabéns!",
+    "B": "Você é um entusiasta de C++! Muito bem!",
+    "C": "Você é um amante de Java! Ótimo trabalho!",
+    "D": "JavaScript é a sua linguagem! Incrível!",
+    "E": "Você é um especialista em R! Excelente escolha!",
+    "#": "C# é uma opção para voce! Parabéns!"
+  }
+}
